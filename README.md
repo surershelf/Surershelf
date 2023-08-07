@@ -12,7 +12,7 @@ Olá! Me chamo Lucas Aguiar Mazzo, um entusiasta da tecnologia e um apaixonado p
 ✨ Tenho interesse em ser um programador Full-Stack. <br>
 📚 Sempre em busca de aprendizado contínuo e aprimoramento de minhas habilidades. <br>
 ### 💻 Tecnologias 
-### Aqui estão algumas das tecnologias com as quais estou familiarizado: 
+## Aqui estão algumas das tecnologias com as quais estou familiarizado: 
 
 Linguagens de programação: Python, Css (Básico) <br>
 Ferramentas e plataformas: Pycharm, VScode <br>
