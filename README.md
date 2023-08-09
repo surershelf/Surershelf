@@ -19,7 +19,7 @@ Outras habilidades: Html (Básico) <br>
 
 ## 🔗 Links 
 Insta: https://instagram.com/_lmazzo_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D <br>
-E-mail: mazzolucas0@gmail.com
+E-mail: mazzolucas0@gmail.com <br>
 Sinta-se à vontade para entrar em contato comigo por meio de qualquer um desses canais. Estou sempre aberto a novas conexões e oportunidades de colaboração. <br>
 
 Obrigado por visitar o meu perfil do GitHub! Vamos conectar e fazer grandes coisas juntos! <br>
