@@ -1,28 +1,25 @@
 
-# 🌟 Biografia
+🌟 Biography
+Hello! My name is Lucas Aguiar Mazzo, a technology enthusiast and a programming lover. I am a Software Engineering student gaining experience in various languages and technologies.
 
+🚀 About Me
+💼 I work as an office assistant at a real estate brokerage. <br>
+🎓 I am studying Software Engineering. <br>
+✨ I am interested in becoming a Back-End developer. <br>
+📚 Always seeking continuous learning and improving my skills. <br>
 
-Olá! Me chamo Lucas Aguiar Mazzo, um entusiasta da tecnologia e um apaixonado por programação. Sou um estudante de Engenharia de Software adquirindo experiência em várias linguagens e tecnologias.  
+💻 Technologies
+Here are some of the technologies I am familiar with:
+Programming Languages: Python, Java, CSS (Basic), SQL <br>
+Tools and Platforms: PyCharm, VSCode, Spring boot, Quarkus <br>
+Other Skills: HTML (Basic) <br>
 
-## 🚀 Sobre Mim 
-
-💼 Trabalho como auxiliar de escritório em uma corretora de lotes. <br>
-🎓 Estou Cursando Engenharia de Software. <br>
-✨ Tenho interesse em ser um programador Back-End. <br>
-📚 Sempre em busca de aprendizado contínuo e aprimoramento de minhas habilidades. <br>
-## 💻 Tecnologias 
-### Aqui estão algumas das tecnologias com as quais estou familiarizado: 
-
-Linguagens de programação: Python, Css (Básico),Java <br>
-Ferramentas e plataformas: Pycharm, VScode <br>
-Outras habilidades: Html (Básico) <br>
-
-## 🔗 Links 
+🔗 Links
 Insta: https://instagram.com/_lmazzo_?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D <br>
-E-mail: mazzolucas0@gmail.com <br>
-Sinta-se à vontade para entrar em contato comigo por meio de qualquer um desses canais. Estou sempre aberto a novas conexões e oportunidades de colaboração. <br>
+Email: mazzolucas0@gmail.com <br>
+Feel free to reach out to me through any of these channels. I am always open to new connections and collaboration opportunities. <br>
 
-Obrigado por visitar o meu perfil do GitHub! Vamos conectar e fazer grandes coisas juntos! <br>
+Thank you for visiting my GitHub profile! Let’s connect and create amazing things together! <br>
 
-Com entusiasmo, <br>
+With enthusiasm, <br>
 Mazzo.
