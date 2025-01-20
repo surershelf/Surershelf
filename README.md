@@ -8,12 +8,12 @@ Olá! Me chamo Lucas Aguiar Mazzo, um entusiasta da tecnologia e um apaixonado p
 
 💼 Trabalho como auxiliar de escritório em uma corretora de lotes. <br>
 🎓 Estou Cursando Engenharia de Software. <br>
-✨ Tenho interesse em ser um programador Full-Stack. <br>
+✨ Tenho interesse em ser um programador Back-End. <br>
 📚 Sempre em busca de aprendizado contínuo e aprimoramento de minhas habilidades. <br>
 ## 💻 Tecnologias 
 ### Aqui estão algumas das tecnologias com as quais estou familiarizado: 
 
-Linguagens de programação: Python, Css (Básico) <br>
+Linguagens de programação: Python, Css (Básico),Java <br>
 Ferramentas e plataformas: Pycharm, VScode <br>
 Outras habilidades: Html (Básico) <br>
 
