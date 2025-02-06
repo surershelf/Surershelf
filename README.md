@@ -1,6 +1,6 @@
 
 ## 🌟 Biography
-Hello! My name is Lucas Aguiar Mazzo, a technology enthusiast and a programming lover. I am a Software Engineering student gaining experience in various languages and technologies.
+"Hello World!" My name is Lucas Aguiar Mazzo, a technology enthusiast and a programming lover. I am a Software Engineering student gaining experience in various languages and technologies.
 
 ## 🚀 About Me
 💼 I work as an office assistant at a real estate brokerage. <br>
