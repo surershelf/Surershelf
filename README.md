@@ -43,7 +43,7 @@ Here are some of the technologies I am familiar with:
     <a href="mazzolucas0@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
   </div>
   
-Feel free to reach out to me through any of these channels. I am always open to new connections and collaboration opportunities. <br>
+Feel free to reach out to me through any of these channels. I'm always open to new connections and collaboration opportunities. <br>
 Thank you for visiting my GitHub profile! Let’s connect and create amazing things together! <br>
 
 With enthusiasm, <br>
