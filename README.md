@@ -9,7 +9,7 @@
 📚 Always seeking continuous learning and improving my skills. <br>
 
 ## 💻 Technologies
-Here are some of the technologies I am familiar with:
+Here are some of the technologies I'm familiar with:
 ###
 
 <div align="left">
